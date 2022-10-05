@@ -15,7 +15,7 @@ html body{
 .footer{
     margin-top: -1%;
     height: 30%;
-    background-color: #34495E;
+    background-color: hsl(233, 26%, 24%);
     display: flex;
     position: absolute;
     /* margin-left: 20%; */
@@ -118,9 +118,9 @@ li a{
 .head button{
     border-radius: 80px;
 height: 35px;
-    margin-left: 10%;
+    margin-left: 15%;
     width: 10%;
-    margin-top: 1%;;
+    margin-top: 1.5%;;
     color: white;
     border: none;
     background-image: linear-gradient(to right, hsl(136, 65%, 51%),     hsl(192, 70%, 51%));
@@ -178,13 +178,19 @@ height: 35px;
     margin-left: 46%;
     position: absolute;
     width: 60%; 
+    
+}
+#box2 img{
+   height: 720px;
+    width: 100%; 
+    
 }
 .boxContainer button{
     border-radius: 80px;
     height: 35px;
         margin-left: 10%;
         width: 40%;
-        margin-top: 1%;;
+        margin-top: 3%;;
         color: white;
         border: none;
         background-image: linear-gradient(to right, hsl(136, 65%, 51%),     hsl(192, 70%, 51%));
@@ -277,6 +283,7 @@ image img{
 }
 .choose h3{
     color: rgb(105, 105, 105);
+    margin-left: -9%;
 }
 .text{
     margin-top: -65%;
