@@ -172,12 +172,12 @@ height: 35px;
     /* background-color: rgb(201, 188, 194); */
 }
 #box2{
-    background-image: url(images/nn.png);
-    background-color: rgb(201, 188, 194);
+    background-image: url(images/bg-intro-desktop.svg);
+    /* background-color: rgb(201, 188, 194); */
     background-size: cover;
     margin-left: 46%;
     position: absolute;
-    width: 60%;
+    width: 60%; 
 }
 .boxContainer button{
     border-radius: 80px;
